@@ -1,3 +1,5 @@
+#hallo friends it is a very simple port scanner.
+
 import sys
 import  socket
 import threading
